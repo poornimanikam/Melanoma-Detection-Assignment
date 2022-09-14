@@ -44,10 +44,10 @@ It has the potential to reduce a lot of manual effort needed in diagnosis.
 - pathlib
 - tensorflow
 - matplotlib
--os
--PIL
--Pandas
--Numpy
+- os
+- PIL
+- Pandas
+- Numpy
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
